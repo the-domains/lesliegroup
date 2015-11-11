@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://business.linkedin.com'
-  name: Linkedin
-  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-  domain: business.linkedin.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://business.linkedin.com/talent-solutions'
+inLanguage: en
+starred: false
 keywords:
   - recruiters
   - linkedin
@@ -18,17 +17,20 @@ keywords:
   - tools
   - branding
 description: Discover all the recruiting and employer branding tools LinkedIn has to offer with our recruiting solutions.
-inLanguage: en
+datePublished: '2015-11-11T23:52:49.990Z'
+dateModified: '2015-11-11T23:52:41.704Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://business.linkedin.com/talent-solutions'
 title: 'Recruiting Solutions for the Perfect Hire | LinkedIn Talent Solutions'
-datePublished: '2015-11-11T23:49:48.439Z'
-dateModified: '2015-11-11T23:43:30.947Z'
 sourcePath: _posts/2015-11-11-recruiting-solutions-for-the-perfect-hire-or-linkedin-talent.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Linkedin
+  domain: business.linkedin.com
+  url: 'https://business.linkedin.com'
+  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
